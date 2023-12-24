@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yeyuely.github.io/favorite%20links/index.html</loc>
+    <loc>https://yeyuely.github.io/2023/12/10/Pt.%E2%85%A2%20%E5%8E%9F%E7%94%9F%E5%BC%82%E5%B8%B8/</loc>
     
-    <lastmod>2023-12-17</lastmod>
+    <lastmod>2023-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -14,15 +14,6 @@
     <loc>https://yeyuely.github.io/about/index.html</loc>
     
     <lastmod>2023-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yeyuely.github.io/2023/12/10/Pt.%E2%85%A2%20%E5%8E%9F%E7%94%9F%E5%BC%82%E5%B8%B8/</loc>
-    
-    <lastmod>2023-12-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +58,7 @@
 
   <url>
     <loc>https://yeyuely.github.io/</loc>
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +66,14 @@
   
   <url>
     <loc>https://yeyuely.github.io/tags/%E6%80%AA%E8%B0%88-%E8%A7%82%E6%B5%8B/</loc>
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yeyuely.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
-    <lastmod>2023-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yeyuely.github.io/tags/%E6%80%AA%E8%B0%88/</loc>
-    <lastmod>2023-12-23</lastmod>
+    <lastmod>2023-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
