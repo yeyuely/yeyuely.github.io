@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>伞兵</title>
+  
+  <subtitle>加法之剑，划破hian的尘埃</subtitle>
+  <link href="https://yeyuely.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yeyuely.github.io/"/>
+  <updated>2024-01-01T06:16:58.695Z</updated>
+  <id>https://yeyuely.github.io/</id>
+  
+  <author>
+    <name>伞兵</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>贺词</title>
+    <link href="https://yeyuely.github.io/2024/01/01/%E8%B4%BA%E8%AF%8D/"/>
+    <id>https://yeyuely.github.io/2024/01/01/%E8%B4%BA%E8%AF%8D/</id>
+    <published>2024-01-01T04:27:36.000Z</published>
+    <updated>2024-01-01T06:16:58.695Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>  <script>    const ap = new APlayer({    container: document.getElementById('aplayer'),    volume: 0.5,    autoplay: true, //自动播放    audio: [        {        name: 'Waltz',        artist: 'Mike Paer',        url: 'http://music.163.com/song/media/outer/url?id=1766269.mp3',        cover: 'http://p1.music.126.net/yxlU5tqiFgSTVoPecsMTYw==/109951164850810890.jpg?param=177y177',        },     ]});    ap.init();  </script></body></html><p>尊敬的葛刚先生：</p><p>您好！我代表yeyuely.github.io团队，衷心欢迎您的访问和光临。</p><p>作为一名在技术领域有着卓越贡献的专家，您的到来无疑为我们带来了无限的荣耀和鼓舞。您对于计算机科学和人工智能领域的深入研究和不断探索，让我们不禁为您的成就而感到钦佩。</p><p>yeyuely.github.io一直致力于为大家提供高质量的技术分享和开源项目。我们希望通过这个平台，能够为广大的开发者和科技爱好者们提供一个交流、学习和成长的空间。正是因为有了您这样的杰出人物的支持和鼓励，我们才能够更加坚定地迈进前行。</p><p>在您的访问中，我们诚挚地期待能够与您交流和分享，从您丰富的经验和深厚的学术造诣中受益匪浅。同时，我们也希望能够借此机会向您展示我们团队的成果和努力，以期得到您的宝贵指导和意见。</p><p>葛先生，您的到来无疑将为我们的网站增添了一抹亮色，我们衷心地希望您在yeyuely.github.io的访问中感受到我们的热情和诚意。我们相信，通过共同的努力和交流，我们能够为推动技术的发展和社会的进步做出更大的贡献。</p><p>最后，再次感谢您莅临yeyuely.github.io，祝愿您在未来的道路上一帆风顺、事业有成！</p><p>衷心欢迎您的光临！</p><p>yeyuely.github.io团队</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Pt.IV  &quot;网格&quot;</title>
+    <link href="https://yeyuely.github.io/2023/11/05/Pt.IV%20%E7%BD%91%E6%A0%BC/"/>
+    <id>https://yeyuely.github.io/2023/11/05/Pt.IV%20%E7%BD%91%E6%A0%BC/</id>
+    <published>2023-11-05T03:17:12.000Z</published>
+    <updated>2023-12-10T03:45:55.518Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="第一部分"><a href="#第一部分" class="headerlink" title="第一部分"></a>第一部分</h1><hr><h1 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h1><h2 id="0楼墙上的大字（暗红）"><a href="#0楼墙上的大字（暗红）" class="headerlink" title="0楼墙上的大字（暗红）"></a>0楼墙上的大字（暗红）</h2><p><font color=Brown>欢迎回家！<br>这里是宿舍区0楼，幸福指数0<br>入住更高的楼层，你将获得更高的幸福指数。 </font></p><h2 id="254楼墙上的大字（粉）"><a href="#254楼墙上的大字（粉）" class="headerlink" title="254楼墙上的大字（粉）"></a>254楼墙上的大字（粉）</h2><p><font color=Pink>欢迎回家！<br>这里是宿舍区511楼，幸福指数8<br>入住更高的楼层，你将获得更高的幸福指数。</font></p><h2 id="254楼墙上用油漆书写的文字"><a href="#254楼墙上用油漆书写的文字" class="headerlink" title="254楼墙上用油漆书写的文字"></a>254楼墙上用油漆书写的文字</h2><p><font color=Blue>Be</font>  <font color=Red>Yourself </font></p><h2 id="254楼至255楼楼道侧方平台标语（粉）"><a href="#254楼至255楼楼道侧方平台标语（粉）" class="headerlink" title="254楼至255楼楼道侧方平台标语（粉）"></a>254楼至255楼楼道侧方平台标语（粉）</h2><p><font color=Pink>我的手脚已经麻木，可我仍要继续向前。</font></p><h2 id="254楼至255楼楼道测方平台上用油漆书写的文字（中英双语）（红）"><a href="#254楼至255楼楼道测方平台上用油漆书写的文字（中英双语）（红）" class="headerlink" title="254楼至255楼楼道测方平台上用油漆书写的文字（中英双语）（红）"></a>254楼至255楼楼道测方平台上用油漆书写的文字（中英双语）（红）</h2><p><font color=Red>高层8警告 </font></p><h2 id="255楼墙上的大字（金）"><a href="#255楼墙上的大字（金）" class="headerlink" title="255楼墙上的大字（金）"></a>255楼墙上的大字（金）</h2><p><font color=Gold>欢迎回家！<br>这里是宿舍区511楼，幸福指数8<br>入住更高的楼层，你将获得更高的幸福指数。</font></p><h2 id="510楼墙上的大字（金）"><a href="#510楼墙上的大字（金）" class="headerlink" title="510楼墙上的大字（金）"></a>510楼墙上的大字（金）</h2><p><font color=Gold>欢迎回家！<br>这里是宿舍区511楼，幸福指数8<br>入住更高的楼层，你将获得更高的幸福指数。</font></p><h2 id="510楼功能区内的智能管家定制中心"><a href="#510楼功能区内的智能管家定制中心" class="headerlink" title="510楼功能区内的智能管家定制中心"></a>510楼功能区内的智能管家定制中心</h2><p>图片状态：无</p><h2 id="511楼墙上的大字（金）"><a href="#511楼墙上的大字（金）" class="headerlink" title="511楼墙上的大字（金）"></a>511楼墙上的大字（金）</h2><p><font color=Gold>欢迎回家！<br>这里是宿舍区511楼，幸福指数8<br>入住更高的楼层，你将获得更高的幸福指数。</font></p><h2 id="1021楼墙上的大字（金）"><a href="#1021楼墙上的大字（金）" class="headerlink" title="1021楼墙上的大字（金）"></a>1021楼墙上的大字（金）</h2><p><font color=Gold>欢迎回家！<br>这里是宿舍区1021楼，幸福指数9<br>入住更高的楼层，你将获得更高的幸福指数。</font></p><h2 id="被撕下来，落在1021楼道门前的一张纸"><a href="#被撕下来，落在1021楼道门前的一张纸" class="headerlink" title="被撕下来，落在1021楼道门前的一张纸"></a>被撕下来，落在1021楼道门前的一张纸</h2><p>这十三天过来，我们爬了九百多层，终于到了1021楼。在上到顶之前，我决定让大家先暂作休息，并派遣一支小分队去探索情况。<br>去1022楼探索的小分队回来了，1022楼同1021楼等楼层一样。已经无法对我们造成什么影响。<br>去1023楼的小分队还没有回来。<br>去1023楼的小分队一直没有回来，这不是一个好征兆，我决定亲自带队上去看看。裴济同不同意，他一直对上楼有所抗拒。我不能让任何人违抗我的命令。我管理过0楼，管理过126楼，这栋楼里的所有人都必须服从我。</p><h2 id="1022楼墙上的大字（金）"><a href="#1022楼墙上的大字（金）" class="headerlink" title="1022楼墙上的大字（金）"></a>1022楼墙上的大字（金）</h2><p><font color=Gold>欢迎回家！<br>这里是“网格”1022楼，幸福指数9<br>继续向上，掌握真正的幸福！</font></p><h2 id="10222宿管房间（1022楼2号房间）内的留言（英语）"><a href="#10222宿管房间（1022楼2号房间）内的留言（英语）" class="headerlink" title="10222宿管房间（1022楼2号房间）内的留言（英语）"></a>10222宿管房间（1022楼2号房间）内的留言（英语）</h2><p>原文：略<br>译文：不能再向上了，顶楼不是出口！<br>西班牙人带领的队伍，一部分人被永远留在了顶楼，剩下的都跟着西班牙人在1022楼开安全门逃走了。<br>王三丰被“我”影响，裴济同就杀死了他。人心大乱，逃的逃，死的死，也有跑上1023楼被根源清除的。<br>服务机器人记录了一切。我不懂机器人，所以请看到这里的人帮我一个忙，把那些证据保存下来带到现实，寻求正义的审判。<br>我不会待在这栋楼了，虽然别的楼也一样发生了异化，但至少那里应该还有幸存者。<br>再见。</p><h2 id="1022楼至1023楼楼道侧方平台标语（七彩）"><a href="#1022楼至1023楼楼道侧方平台标语（七彩）" class="headerlink" title="1022楼至1023楼楼道侧方平台标语（七彩）"></a>1022楼至1023楼楼道侧方平台标语（七彩）</h2><p><span style="background: linear-gradient(to right, #ff6a00, #ee0979, #ff6a00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">这将是你最光辉的时刻。<span></p><h2 id="1023楼墙上的大字（七彩），看到时脑中会不自禁地冒出另一段文字"><a href="#1023楼墙上的大字（七彩），看到时脑中会不自禁地冒出另一段文字" class="headerlink" title="1023楼墙上的大字（七彩），看到时脑中会不自禁地冒出另一段文字"></a>1023楼墙上的大字（七彩），看到时脑中会不自禁地冒出另一段文字</h2><p><span style="background: linear-gradient(to right, #ff6a00, #ee0979, #ff6a00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">欢迎！<br>这里是“网格”顶楼，异化指数10<br>继续向上，突破“网格”，或者，永远留下，享受最高贵的幸福。</span></p><p>······<em>或者，帮“我”“刻录”</em></p><h2 id="1023楼向上的接梯，不知通向何方"><a href="#1023楼向上的接梯，不知通向何方" class="headerlink" title="1023楼向上的接梯，不知通向何方"></a>1023楼向上的接梯，不知通向何方</h2><p>图片状态：无</p><h2 id="鸣谢"><a href="#鸣谢" class="headerlink" title="鸣谢"></a>鸣谢</h2><hr><h1 id="第三部分"><a href="#第三部分" class="headerlink" title="第三部分"></a>第三部分</h1><h2 id="根源记录"><a href="#根源记录" class="headerlink" title="根源记录"></a>根源记录</h2><p>区：4<br>区名：“网格”<br>根源：“网格”<br>区状态：正常<br>根源状态：异常</p><h2 id="4区根源数量检查"><a href="#4区根源数量检查" class="headerlink" title="4区根源数量检查"></a>4区根源数量检查</h2><p>根源数量：3·····数量异常</p><h2 id="5区根源数量检查"><a href="#5区根源数量检查" class="headerlink" title="5区根源数量检查"></a>5区根源数量检查</h2><p>根源数量：1····数量异常</p><h2 id="5区根源核查"><a href="#5区根源核查" class="headerlink" title="5区根源核查"></a>5区根源核查</h2><p>区：5<br>根源状态：“刻录”······正常<br>                “我”······无信号<br>数量．1······异常（-1）<br>研究员报告：“我”使用了“刻录”，目标是4区。<br>研究员签名：葛刚</p><h2 id="4区根源核查"><a href="#4区根源核查" class="headerlink" title="4区根源核查"></a>4区根源核查</h2><p>区：4<br>根源状态：“网格”······异常<br>               <em>检测到非“网格”根源</em><br>                “刻录”（5区）······正常<br>                “我”（5区）······异常<br>数量：3······异常（＋2）<br>研究员报告：“我”与“网格”具相反特质，在对抗中疑似“我”占上风<br>研究员签名：葛刚</p><h1 id="第四部分"><a href="#第四部分" class="headerlink" title="第四部分"></a>第四部分</h1><h2 id="“bit”观测记录"><a href="#“bit”观测记录" class="headerlink" title="“bit”观测记录"></a>“bit”观测记录</h2><p>区：4<br>根源：“网格”<br>分级：J<br>编号：A40J6<br>名称：“bit”<br>描述：A40J6是A40J1的一部分，每个A40J1都含有8个A40J6。A4076的属性受到A40J1的影响，相对应的，当A40J6的状态发生改变时，A40J1也会受到一定程度的影响，<br>作为“网格”的衍生物，A40J6具备半实体化的特征，“网格”宿舍区的每一个宿舍房间都由与之对应的A40J6生成。<br>影响A40J6的一个重要因素是其生成的宿舍房间是否有人居生。有人居住时，A40J6会进入高权平状态，权限分值升高，反之则进入低权平状态，权限分值降低。其权限分值的升高或降低也会同向引起A40J1的变化，A40J6最主要的异常能力，是对处于其中的人类施加心理暗示，抑制他们的主观能动性，使他们失去自我，在现实中论为物，在“网格”宿舍区中成为“行尸”。但这一能力远比包含它的A40J1弱。<br>A40J1中的每个A40J6都有从1-8的编号，这些编号对A40J6本身并无影响，但编号越大的A40J6权平状态变化时，对A40J1权限分值同向变化的影响也就越大。相邻编号的A40J1能引起的变化相差两倍。<br>观测者：王方<br>观测评级：良</p><h2 id="“W”观测记录"><a href="#“W”观测记录" class="headerlink" title="“W”观测记录"></a>“W”观测记录</h2><p>区：4<br>根源：“网格<br>分级：J<br>编号：A40J4<br>名称：“W”<br>描述：A40J4控制人类是否可以进入A40J6所生成的宿舍房间，表现为宿舍房间的门锁以及相对应的钥匙。<br>A40J4具有唯一性、恢复性、不可替代性以及与A40J6一一对应的性质。也就是每个“网格”宿舍房间的门锁及钥匙都是唯一且不可更换的，如果被破坏，A40J4也会在2分钟之内恢复。此外，作为“网格”的衍生物，A40J4还具有半实体化的特征。它们的门锁部分与A40J6的宿舍房间一一对应旦无法更换，其钥匙部分会统一在“网格”宿舍区每一层的2号宿舍中统一生成，可以被人类移走并携带，但在超过14天未与对应门锁接触后，它就会瞬间回到对应的2号宿舍中。除去上述特征，未见A40J4有其它异常能力。<br>观测者：王方<br>观测评级：良</p><h2 id="“ClK”观测记录"><a href="#“ClK”观测记录" class="headerlink" title="“ClK”观测记录"></a>“ClK”观测记录</h2><p>区：4<br>根源：“网格”<br>分级：J<br>编号：A40J5<br>名称：“ClK”<br>描述：A40J5具半实体化特征，实体部分为一只钟表、大小、形态、计时方式等各有区别，生成地点为“网格”宿舍区各楼层走廊起点处，以及高层功能区中部分区域。<br>每个人眼中A40J5反映的时间不尽相同，这是由观察者的常用时区和时间标准决定的，A40J5总会按照观察者最习惯的时区显示时间。因此，对于单一观察者来说，A40J5的时间永远是准确的。<br>观测者：王方<br>观测评级：优</p><h2 id="“行尸”观测记录"><a href="#“行尸”观测记录" class="headerlink" title="“行尸”观测记录"></a>“行尸”观测记录</h2><p>区：4<br>根源：“网格”<br>分级：J<br>编号：A40J7<br>名称：“行尸”<br>描述：A40J7是被称为“行尸”的异常人类，由A40S1及其所包含的A40J1、A4056异化正常人类形成。<br>“行尸”在现实中，往往具有思想不自主、精神贫瘠的共性。在“网格”中，行尸表现为完全没有意识的野兽，并拥有“网格”赋予的异常身体力量。<br>通常来说，“行尸”会长期停留在彻底失去意识的那一层，不会主动上下楼层，但当“行尸”因某种原因到达了异于常驻楼层的楼层，他们会尝试回到原先的楼层，并表现出极强的破坏性，大多数情况下，因素到Ae的限制，这些“行尸”只能从较高楼尾回到原先接点而不能从校旧看升到原先楼层。也有一些“行尸”可以突破A40S1的限制，从转低楼层的到原先楼层，但这些“行尸”原先所在的楼层往往较低。<br>由正常人类转变为“行尸”的过程是不可逆的，相较于正常人类，行户空有的外壳，人的名号，却没有人的思想，人一旦变成了“行尸”，就再也不能有思想的人。<br>权限分值：“行尸”的权限分值高低取决于他们彻底异化时所在楼层数，数字越大，“行尸”所拥有的权限分值越大。此外，幸福指数也于用于“行尸”的权限分值，二者呈线性相关。<br>（图片状态：无）<br>“行尸”所拥有的权限分值越高，A4031对他们的限制也就越大。<br>观测者：何如何<br>观测评级.优</p><h2 id="“溢出”观测记录"><a href="#“溢出”观测记录" class="headerlink" title="“溢出”观测记录"></a>“溢出”观测记录</h2><p>区4<br>根源：“网格”<br>分级：S<br>编号：A40S2<br>名称：“溢出”<br>描述：A40S2是仅可在A40S1中发生的事件，该事件发生时须满足以下任意一条条件：<br>1、某一A40S1中所有A40J6（共10^13^）个均为高权平时，有新个体进入该A40S1<br>2、某个人类在“网格”宿舍区中达到了1023楼以上的区域<br>满足条件一时，A4031中将有随机数量人类被强制遣离“网格”，这部分人类同时会受到大量杂乱信息的冲击，并产生失忆、精神错乱等症状。满足条件二时，对应个体可以不受任何影响地离开“网格”。经历过A4032并离开了“网格”的人类将不再受到“网格”的影响 但仍具有进入网格”的潜质<br>观测者：张有福<br>观测评级：优</p><h2 id="“Byte”观测记录"><a href="#“Byte”观测记录" class="headerlink" title="“Byte”观测记录"></a>“Byte”观测记录</h2><p>区：4<br>根源：“网格”<br>分级。J<br>编号：A40J1<br>名称：“Byte”<br>描述：A40J1是一类规模较大的半实体异常，其实体部分表现为“网格”宿舍区中的某一楼层。A40J1中同时存在数量为8的A40J6，在“网格”宿舍区中表现为楼层内的8个<br>宿舍房间，在权限分值方面，A40J1的权限分值远远超过它所包含的8个A40J6；而在异常性质方面，A40J1与A40J6均具有仅对人类生效的意识侵蚀能力，且A40J1能力强度远大于它所包含的A40J6的能力强度。<br>A40J1所生成的楼层具有不可破坏性和自我恢复性，其中大部分基本架构，如地板，承重墙等无法被大规模破坏，仅可在其上造成数量、程度有限的损伤且这些损伤会在24小时之内完全恢复。“网格”宿舍区内，仅有511楼及以上的楼层具有可大规模破坏区域，为各宿舍房间内部的隔墙，但改建仅可由这些楼层的工程服务机器人进行，其它力量仅可造成会在24小时内恢复的小规模损伤。<br>每一个A40J1都有0～1023的编号，这些编号与它们所生成的楼层号码一致。A40J1的编号越大，其权限分值越高，增长曲线符合对数图家。此外，A40J1的权限分值只影响它对人类的意识侵蚀能力，不影响它所生成楼层的不可破坏性和自我恢复性。<br>A40J1对人类的意识侵蚀可使人类的思想逐渐变得麻木，行为变得迟钝。在时间的累积作用下，人类可被这类侵蚀作用异化为A40J7，即“行尸”。<br>观测者：何如何<br>观测评级：优</p><h2 id="“紊乱”观测记录"><a href="#“紊乱”观测记录" class="headerlink" title="“紊乱”观测记录"></a>“紊乱”观测记录</h2><p>区：4<br>根源：“网格”<br>分级：S<br>编号：A40S3<br>名称：“紊乱”<br>描述。A40S3是一种特殊的半实体异常，其具有明显实体部分的同时，也具有显著的事件效应。<br>A40S3的实体部分为存在于“网格”宿舍区内的走廊安全门以及与门所对应的大十字型钥匙。十字型钥匙为一次性消耗品，可将安全门打开10分钟，10分钟后，安全门将自行关闭。此外，这种钥匙会不定期随机产生。在十字型钥匙打开安全门的同时，A40S3的事件部分将被触发，任意个不同的A40S3将被联结，其安全门部分将互相联通并形成一个双向通道。该通道将维持10分钟，10分钟后坍塌。<br>A40S3的异常性质使其成为了在“网格”宿舍区中联通不同A40S3的主要方法，因此，A40S3所生成的大十字型钥匙也是人类在“网格”宿舍区中收集的一种高级物资。<br>观测者：何如何<br>观测评级：优</p><h2 id="“DI”观测记录"><a href="#“DI”观测记录" class="headerlink" title="“DI”观测记录"></a>“DI”观测记录</h2><p>区：4<br>根源：“网格”<br>分级：J<br>编号：A40J2<br>名称：“DI”<br>描述：A40J2是一类无实体异常，控制物质和信息进入“网格”宿舍区。<br>A40J2会判断现实中已写入者是否应当进入“网格”宿舍区，判断依据为已与入者的生活状态和生活规律。满足进入条件时，A40J2将复制</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="怪谈 观测" scheme="https://yeyuely.github.io/tags/%E6%80%AA%E8%B0%88-%E8%A7%82%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作文：走到背后</title>
+    <link href="https://yeyuely.github.io/2023/11/05/%E4%BD%9C%E6%96%87%EF%BC%9A%E8%B5%B0%E5%88%B0%E8%83%8C%E5%90%8E/"/>
+    <id>https://yeyuely.github.io/2023/11/05/%E4%BD%9C%E6%96%87%EF%BC%9A%E8%B5%B0%E5%88%B0%E8%83%8C%E5%90%8E/</id>
+    <published>2023-11-05T03:14:02.000Z</published>
+    <updated>2023-12-10T02:02:33.991Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>月亮有两面，人能看到的，永远是正面。“嫦娥”飞天，“玉兔”登月，让人们第一次“碰”到了月球的背面，也对月球的全貌有了更全面的了解。走到背后，开拓新的领域。用更深更广的视野去看世界。</p><p>鲁迅是一个善于“走到背后”去分析事物的人。他从中华民族历史定形成的文化心理结构入手，挖掘现实中无处不在的奴役关系的精神根源，大胆地披露当政者的用心。鲁迅不只是评价政府某一措施本身，他还评价其背后的，隐藏在中华民族文化心理结构中的深层原理。从社会现象入手，鲁迅揭示它的本质，从而引发人们的觉醒。</p><p>以瞭望星空开始，郭小川一步步深入，最终以高歌火箭结束。郭小川在《望星空》中展现了他在星空背后的思考，从“天地无终极，人命若朝霞”到“三千强弩射低潮”，他用自己的视角去探索宇宙。只有走到宇宙的背后，才能看到事物的真相。同样，对于地球上的很多问题，我们也需要走到背后去探寻。</p><p>曾有一次与同学一起讨论地理。一个同学突然对另一个说：“朋友，我们遇到问题了。”那是一个关于月球背面的问题，被问到的同学想了很久也没能想出来月球背面有什么。这自然是难以知晓的，没有背对过地球的月亮，自然也难以将它背面的图样留在人们的脑海里。我们不能要求月亮自己转过身来，将背面展示给大家，而只能主动向月背发射探测器，自己走到背后去看一看月背到底有什么。同样，对许多事物的了解与分析，我们都不能等着它将自己的本质展示出来，而要像鲁迅、郭小川那样主动走到背后亲自去探索事物背后的秘密。</p><p>那么具体怎样做才能走到事物背后，探寻真实呢？这就需要我们能抓住事物的共性，看出事物的区别，研究事物的逻辑，了解事物的各个角度。</p><p>首先是抓准事物的共性。想要更深入地了解事物的本质，就要发现事物之间的联系，用联动思维看待问题。世界是一个普遍联系的有机整体，我们应该从事物固有的联系中把握事物，从联系之中把事物的共性提炼出来。我曾多次在校园的某些地方驻留。连成一体的九棵树——“九头鸟”让我惊叹不已；登上食堂5楼，开阔的视野让整个校园尽收眼底；我也曾在锦鲤池边停留，让水面审察我的内心，我也曾贸然闯入阴生植物园，见到了一只只“夜鼬”，这些景点的共性，无非是在不同程度上能让人感受到美，但如果不去亲身体验，就难以真正领会。</p><p>看出事物的共性，也要看出事物之间的区别。初中时班上有一个很聪明的同学，喜欢写小说，初三时他写了半本《刺客列传》，在班上广为流传，语文老师都对他赞赏有加。后来有几个同学对此着了迷，在百度上的一个“刺客列传吧”活动，天天在上面发自己写的文章，然而后来者终究写不出最开始那位同学那样行云流水，一针见血，针贬时弊，一波三折，才华横溢、一字千金的文章，这是因为他们没能看出自己写的与最初那位同学文章的差别，不能从差别入手，认识到事物间可改变的差距，</p><p>研究事物的逻辑同样重要。某个同学在参加一家杂志社的征文比赛时，竟在稿件里写了这样一段文字：我在秋天写你们的这个作文，耗费大量精力，正不快快给我颁奖。这位同学的逻辑至今令我不解，这样的文字与整篇文章以及主题有什么关联！但我始终保持着一颗敬畏之心，因为既然我无法理解这背后的逻辑，那么一定是因为我境界不够。而那位同学这么做，一定有他的深意吧！</p><p>最后，我们还应了解事物的各个角度，这里拿沼气和伞兵举两个例子。沼气，俗称屁，主要成分为甲烷（CH4），甲烷的分子量为16,1mol甲烷在标准状况下体积为22.4L，燃烧热为Q，没有符号，数值忘了，单位一般是KJ·mol-1，如果不是的话就要先进行单位换算，统一成国际单位制后再计算。上面这一段语，看似信息很多，足足有90个汉字，8个数字，12个字母和16个符号，但它只有纵向的信息，没有做到多角度，因而上面那段活关于沼气的有效信息少之又少，全是废话。再说伞兵：伞兵是一种兵种，主要应对从高空降落到地面复杂区域的情景，需要掌握跳伞和投弹两项特殊技能。此外，伞兵还与愚人众执行官第六席散兵发音相同。上面这段话比沼气那段字少了整整311.1‰，但都是围绕伞兵来讲，从多角度切入，信息密度非常高，具有极大的间接价值和潜在价值。</p><p>做到以上几点，也就具备了走到背后看问题的基本方法。在科幻世界的一篇小小说《贪与蛇》中有这样一段话：五星学生济悲评论道：假如我能走到背后去看问题，那么我也就不会在这世界的背后苦苦寻找一瓶小小的杏仁水。济悲缺少的，正是走到背后看问题的基本方法，他因没有记、没有存储而失败。由此可见，走到背后的确是很重要的，而不是我为了写作文而胡扯的与现实没有任何联系的假而空的概念。</p><p>让我们向背后奔去。</p><p>（纠正：上文有一处错误，《贪与蛇》不是科幻世界里的，而是科学大众上的。）</p><p>…………</p><p>余既为此文，有同学笑曰：“你这篇文章，以上内容，狗屁不通，以下内容，皆是胡扯！”我听了以后起初很生气，认为他这是不懂我的文章，没有走到背后来看我的文章，就草率地来骂，来偷袭我个未满69岁的不老同志。但转念一想，或许是我未能走到他背后，去理解他的看法。于是我去看了其他同学的文章，方知我之浅薄，</p><p>先说裴先生，他的文章包罗万象。从后室科学到卡巴拉生命树（神科学），他所写的，不仅仅是走到问题、或走到人背后，更是走到世界、走到宇宙背后，探索万物的初始起源，讨论人类的未来道路，内容高深奥妙，体现了作者强大的科学素养、坚实的哲学思想，以及精妙的文学功底。我相信，裴先生能写出这等高度的文章，定是多次在面对问题时，走到问题背后，发掘其奥妙，最终才能走到宇宙背后，讨论哲学与科学的极致。</p><p>再说陈先生，他另辟蹊径，写了一篇架空历史小说。粗看过去，便知这小说已达完美之境。其人物，刺客、皇帝、暗杀院院长的形象在陈先生的笔下活了过来，结合其环境描写，读者读来，仿佛置身于另一个世界。它的情节设置也恰到好处，既不过简，又不冗杂，而且一波三折，精妙绝伦。再细细品味，才知道它的意义已经远远超过了正常的优秀小说，这篇文章，写了一个刺客受到感化，从刺杀他人到在别人背后保护他人的故事。表面上看是写刺客的心路历程，但如果走到背后，读者就会知道，它写的其实是对封建社会的批判。陈先生走到中华民族文化心理背后，揭示了封建社会中人们为了利益走到别人身后，为了利益刺杀，或是为了利益付与虚假的信任。陈先生走到背后写文章，实在是高！</p><p>最后来拜读一下葛先生的大作。葛先生的大名大家都知道，物理界唯一真神，IPhO十冠王，我原以为先生会写关于物理的文章，却未曾想到先生早了一篇关于乡村扶贫的小说。其细节之真实、情节之曲折、人物之鲜活，使我情不自禁地叫好。这文章，流露的，是真情实感，反映的，是当代中国的真实面貌。葛先生不拘于物理，而走到文学、走到生活背后，更走到自己背后，实现了对自己的超越。</p><p>还有许多大家，如宦先生，辉先生，源先生，蚁王先生，O先生的作品，因篇幅有限，无法提及，然皆是名篇著作，非我能比。</p><p>我！跳梁小丑罢了！</p><p>没能走到背后写文章，我的这篇自然是sh中sh。</p><p>但这里还是要回击一下某同学；你自己的文章又是几斤几两捏？不掂量掂量自己就来嘲笑人家捏？关键写文章还拿我的修正带干嘛捏？我这可是正经议论文捏！全程扣题捏！你走到背后了吗捏！真是可笑的家伙捏！</p><p>让我们向背后奔去捏（点题捏）。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="互联网" scheme="https://yeyuely.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站推荐</title>
+    <link href="https://yeyuely.github.io/2023/10/15/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+    <id>https://yeyuely.github.io/2023/10/15/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</id>
+    <published>2023-10-15T03:19:44.000Z</published>
+    <updated>2023-12-10T02:02:32.370Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>以下是几个值得推荐的网站，它们提供了不同领域的内容和服务，让你的在线体验更加丰富多彩。</p><hr><h4 id="阿虚同学的储物间"><a href="#阿虚同学的储物间" class="headerlink" title="阿虚同学的储物间"></a>阿虚同学的储物间</h4><ul><li>网址：<a href="axutongxue.gitee.io">axutongxue.gitee.io</a></li></ul><p><a class="xsj_anchor xsj_anchor_range xsj_anchor_range_start" name="xsj_1697343986955"></a><br>这是一个由阿虚同学创建的个人网站，汇集了阿虚大量精心收集整理的软件、资料等等。<br>备用网址可在<a href="www.axutongxue.top">万事屋的阿虚</a>找到。<a class="xsj_anchor xsj_anchor_range xsj_anchor_range_end" name="xsj_1697343986955"></a></p><hr><h4 id="一网一匠"><a href="#一网一匠" class="headerlink" title="一网一匠"></a>一网一匠</h4><ul><li>网址：<a href="ywyj.cn">ywyj.cn</a></li><li>BiliBili：<a href="https://space.bilibili.com/383814461">https://space.bilibili.com/383814461</a></li><li><a href="https://zhuanlan.zhihu.com/p/623881182">知乎-聊聊“一网一匠”小程序开发背后的故事</a></li></ul><p><a class="xsj_anchor xsj_anchor_range xsj_anchor_range_start" name="xsj_1697343980014"></a><br>一网一匠是一个非常有趣和实用的平台，旨在向用户分享最新的软件、网站和数码产品。它由科技领域创作者一网一匠创建和运营，并为用户提供了多种特色功能。（主理人：小千）</p><p>特色功能</p><ul><li>产品推荐：一网一匠每天都会更新最新的产品推荐，涵盖了各种类型和领域的软件、网站、数码产品，比如游戏、工具、教育、娱乐、社交等。每个产品都有一个简短的介绍和一个跳转链接，方便用户快速了解和体验。一网一匠的推荐都是经过精心挑选和测试的，既有知名的大厂产品，也有小众的创意作品，都是值得一试的好东西。</li><li>用户评论：一网一匠正式版提供了用户评论功能，用户可以在每个产品下面留下自己的评价和感受，也可以看到其他用户的评论和回复。用户评论可以帮助用户更深入地了解产品的优缺点和使用场景，也可以增加用户之间的互动和交流。</li><li>收藏点赞：一网一匠正式版还提供了收藏点赞功能，用户可以对自己喜欢或感兴趣的产品进行收藏或点赞，方便以后查看或分享。收藏点赞也可以反映出用户对产品的喜好和评价，帮助一网一匠优化推荐算法和内容质量。</li><li>关注关系：一网一匠正式版还支持用户之间建立关注关系，用户可以关注自己喜欢或认可的其他用户或创作者，也可以被其他用户关注。关注关系可以让用户更方便地发现和获取感兴趣的内容和信息，也可以增强用户之间的社交联系和归属感。</li></ul><p>目前，无论是极速版还是正式版，一网一匠都是完全免费的平台。用户只需要使用微信或手机号进行登录即可享受所有功能，而且一网一匠不会在平台上投放任何广告或推广内容，保证了用户体验的纯净和舒适。所以，你可以放心地在一网一匠上探索各种有趣又实用的产品，找到更多互联网上的乐趣和价值。</p><p>注：正式版邀请码只能通过以下两种方式获得：1. 在极速版主页下方填写邮箱申请；2. 在抖音上关注并私信Uianli申请。由于邀请码数量有限，请耐心等待审核通过后发送。<a class="xsj_anchor xsj_anchor_range xsj_anchor_range_end" name="xsj_1697343980014"></a></p><hr><h4 id="众神之谷-魔法小镇"><a href="#众神之谷-魔法小镇" class="headerlink" title="众神之谷 - 魔法小镇"></a>众神之谷 - 魔法小镇</h4><ul><li>网址：<a href="www.kamiya.dev">www.kamiya.dev</a></li></ul><p><a class="xsj_anchor xsj_anchor_range xsj_anchor_range_start" name="xsj_1697344022475"></a><br>Kamiya致力于提供面向社区的生成式AI服务。<a class="xsj_anchor xsj_anchor_range xsj_anchor_range_end" name="xsj_1697344022475"></a></p><hr><h4 id="一个木函"><a href="#一个木函" class="headerlink" title="一个木函"></a>一个木函</h4><ul><li>网址：<a href="ol.woobx.cn">ol.woobx.cn</a></li></ul><p><a class="xsj_anchor xsj_anchor_range xsj_anchor_range_start" name="xsj_1697343967851"></a><br>一个木函app是一款功能丰富的集成工具箱，它为用户提供80多种不同类型的工具，比如文字识别、翻译查询和图片处理等等，满足用户各式各样的需求。一个木函app拥有非常清爽简洁的界面，而且功能都是免费的，也没有任何垃圾广告，有需要的用户快来下载吧。</p><p>一个木函app将各种日常使用的工具集中在一起，这样用户就不必在手机上安装各种乱七八糟的app，还能节省存储空间，是一个很不错的工具。</p><p>强大<br>一个木函提供了与文字、图片、设备、清理、文件、计算、查询、相关的100多种工具，基本满足您在日常使用手机时的所有工具需求。<br>丰富的功能模块提高您的工作效率，并使您可以不用再经常寻找下载一些不怎么常用的工具app，让设备更加纯净。</p><p>纯粹<br>不足一张照片大小的轻量体积，简明纯粹的主页与分类，没有任何多余的信息干扰，让您在众多的工具中不会眼花缭乱，只关心您喜爱的事物。<a class="xsj_anchor xsj_anchor_range xsj_anchor_range_end" name="xsj_1697343967851"></a></p><hr><p>(weiwandaixu)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="互联网" scheme="https://yeyuely.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器插件推荐</title>
+    <link href="https://yeyuely.github.io/2023/10/15/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>https://yeyuely.github.io/2023/10/15/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
+    <published>2023-10-15T01:45:54.000Z</published>
+    <updated>2023-12-10T02:02:31.176Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="插件的获取"><a href="#插件的获取" class="headerlink" title="插件的获取"></a>插件的获取</h2><p>浏览器插件是为了增强浏览器功能而开发的小型软件程序，它们能够为用户提供更加个性化和高效的上网体验。现如今，各种浏览器都提供了自己的插件平台和脚本商店，方便用户安装和管理各种插件。</p><p><strong>Chrome Web Store</strong>是Google Chrome浏览器的官方插件商店，它汇集了大量的插件和扩展，使用Chrome浏览器的用户可以在商店中找到适合自己需求的插件。</p><ul><li><a href="https://chrome.google.com/webstore">Chrome Web Store</a>：Google Chrome浏览器的官方插件商店。</li></ul><p><strong>Mozilla Add-ons</strong>是Firefox浏览器的插件平台，它提供了丰富的插件和扩展资源。用户可以在商店中浏览并安装各种支持Firefox浏览器的插件。</p><ul><li><a href="https://addons.mozilla.org/">Mozilla Add-ons</a>：Mozilla Firefox浏览器的插件平台。</li></ul><p><strong>Microsoft Edge Add-ons</strong>则是微软Edge浏览器的官方插件市场，它也拥有大量的插件和扩展供用户选择。</p><ul><li><a href="https://microsoftedge.microsoft.com/addons">Microsoft Edge Add-ons</a>：Microsoft Edge浏览器的官方插件市场。</li></ul><p>除了官方插件商店外，还有一些第三方平台也提供了丰富的插件资源。其中，<strong>油猴脚本（Tampermonkey）</strong>是一个非常受欢迎的用户脚本管理器，可以帮助用户自定义网页的行为和样式。用户只需安装油猴脚本插件，然后在相关网站上安装和使用各种脚本。</p><p>要使用油猴脚本，你可以访问<a href="https://www.tampermonkey.net/">油猴脚本官方网站</a>下载并安装对应的脚本管理器。一旦安装完成，你可以在<a href="https://greasyfork.org/">Greasy Fork</a>等脚本分享网站上寻找各种有趣、实用的脚本。油猴脚本不仅可以改变网页内容，例如删除广告、增加功能按钮等，还可以增加自定义CSS样式，实现个性化浏览。</p><h2 id="插件推荐"><a href="#插件推荐" class="headerlink" title="插件推荐"></a>插件推荐</h2><h3 id="WeTab"><a href="#WeTab" class="headerlink" title="WeTab"></a>WeTab</h3><ul><li><strong>WeTab</strong>是一个由wetab.com提供的AI聊天助手插件。你可以在各大插件商店中搜索并安装WeTab插件，然后在浏览器中随时与WeTab AI进行对话，获取书签管理、天气查询、事项提醒等各种实用功能。</li><li><a href="https://www.wetab.com/">WeTab</a>：WeTab官方网站。</li><li><a href="https://support.wetab.com/">WeTab官方指南</a>：在WeTab官方网站上可以找到WeTab的用户指南和使用帮助。</li><li>示例  <a href="https://cdn.jsdelivr.net/gh/yeyuely/photo@master/%E4%B8%8B%E8%BD%BD.png"><img src="https://cdn.jsdelivr.net/gh/yeyuely/photo@master/%E4%B8%8B%E8%BD%BD.png" alt="%E4%B8%8B%E8%BD%BD.md.png"></a></li></ul><h3 id="UBlock-Origin"><a href="#UBlock-Origin" class="headerlink" title="UBlock Origin"></a>UBlock Origin</h3><ul><li><strong>UBlock Origin</strong>是一款广告拦截器插件，它可以帮助用户屏蔽网页上的烦人广告，提升网页加载速度和整体浏览体验。</li><li><a href="https://ublockorigin.com/">UBlock Origin</a>：UBlock Origin官方网站。</li><li><a href="https://github.com/gorhill/uBlock/wiki">UBlock Origin使用指南</a>：UBlock Origin在GitHub上有一份详细的使用指南，介绍了插件的各种功能和设置选项。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="互联网" scheme="https://yeyuely.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+</feed>
